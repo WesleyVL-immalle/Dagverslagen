@@ -2,9 +2,9 @@
 ## Maandag 2021-10-04
 Rondleiding gekregen in het bedrijf. 
 ### serverkamer lokaal:
-Hieronder op de foto's zie het serverkamer die van de twee verdiepen (7 en 8) het internet en vaste telefoons regelt. Deze kamer legt ook de verbinding met de datacenters in het buitenland.
+Hieronder op de foto's zie het serverkamer die van de twee verdiepen (7 en 8) het internet en vaste telefoons regelt. Deze kamer legt ook de verbinding met de datacenters in het buitenland. Deze kamer wordt volledig gekoeld om de levensduur van de aparaten zo lang mogelijk te maken en ook te voorzien dat deze niet gaan oververhitten.
 
-<img src="https://user-images.githubusercontent.com/77328028/135809640-dd69f3e3-c89e-4baf-aff4-64e69f9a1fc6.jpg" width="250" /> | <img src="https://user-images.githubusercontent.com/77328028/135809646-9234d508-d2b7-4cf9-ade3-aa3547f37553.jpg" width="250" /> | <img src="https://user-images.githubusercontent.com/77328028/135809651-0f521306-17f1-448d-8917-32bed23ee00e.jpg" width="250" />
+<img src="https://user-images.githubusercontent.com/77328028/135809640-dd69f3e3-c89e-4baf-aff4-64e69f9a1fc6.jpg" width="250" />  <img src="https://user-images.githubusercontent.com/77328028/135809646-9234d508-d2b7-4cf9-ade3-aa3547f37553.jpg" width="250" />  <img src="https://user-images.githubusercontent.com/77328028/135809651-0f521306-17f1-448d-8917-32bed23ee00e.jpg" width="250" />
 
 ### Bedrijfsnetwerk:  
 #### Internet:
@@ -13,7 +13,7 @@ Werken met één groot bedrijfsnetwerk. Dit gebeurt door een sevrice proximus aa
 
 Dit gebruiken ze omdat ze dan tussen al de vestigingen één groot netwerk kunnen behouden. Ze hebben dan ook ineens dan een perfecte verbinding voor de mensen die thuis werken en de gene die op de latop's werken van op afstand. Dan kunnen ze hier ook verbinding meemaken. 
 
-Ze hebben ook een backuplijn moest het internet wegvallen dat ze nog op andere manier hun internet toch kunnen behouden.
+Ze hebben ook een backup-lijn moest het internet wegvallen dat ze nog op andere manier hun internet toch kunnen behouden. Deze backup-lijn heeft ook zijn eigen server lokaal.
 
 #### Vastelijn telefoons:
 Deze werken allemaal via VOIP (=Voice over IP). Dit is het makkelijkste om te installeren en in gebruik te nemen omdat dit maar één kabel nodige heeft en dat is dan een internet kabel met POE (=Power Over Ethernet).
@@ -25,4 +25,4 @@ op bouwwerven nemen ze mirco servers mee die dan een connectie leggen met de dom
 
 Gebruikte website:\
 [https://www.proximus.be/nl/id_cl_explore/bedrijven-en-overheden/netwerken/bedrijfsnetwerken/explore.html](https://www.proximus.be/nl/id_cl_explore/bedrijven-en-overheden/netwerken/bedrijfsnetwerken/explore.html) \
-[https://tweakers.net/pricewatch/463569/hp-proliant-microserver-gen8-g1610t/specificaties/](https://tweakers.net/pricewatch/463569/hp-proliant-microserver-gen8-g1610t/specificaties/) \
+[https://tweakers.net/pricewatch/463569/hp-proliant-microserver-gen8-g1610t/specificaties/](https://tweakers.net/pricewatch/463569/hp-proliant-microserver-gen8-g1610t/specificaties/) 
