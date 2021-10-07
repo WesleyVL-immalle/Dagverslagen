@@ -12,7 +12,7 @@ De meeste hardware is vervangen door een VM (=Virtual machine) dit doe ze zodat 
 Werken met één groot bedrijfsnetwerk. Dit gebeurt door een sevrice proximus aanbiedt genaamd `Explore`.  
 > Explore is een MPLS privenetwerk (Multiprotocol Label Switching) dat enkel toegankelijk is voor u en uw medewerkers, in België en in het buitenland. Bovendien is de netwerkverbinding snel, ongeacht het aantal aangesloten toestellen, en biedt het een waaier aan extra diensten zoals QoS (Quality of Service).  
 
-Dit gebruiken ze omdat ze dan tussen al de vestigingen één groot netwerk kunnen behouden. Ze hebben dan ook ineens dan een perfecte verbinding voor de mensen die thuis werken en de gene die op de latop's werken van op afstand. Dan kunnen ze hier ook verbinding meemaken. 
+Dit gebruiken ze omdat ze dan tussen al de vestigingen één groot netwerk kunnen behouden. Ze hebben dan ook ineens dan een perfecte verbinding voor de mensen die thuis werken en diegenen die op de latop's werken van op afstand. Dan kunnen ze hier ook verbinding meemaken. 
 
 Ze hebben ook een backup-lijn moest het internet wegvallen dat ze nog op andere manier hun internet toch kunnen behouden. Deze backup-lijn heeft ook zijn eigen server lokaal.
 
