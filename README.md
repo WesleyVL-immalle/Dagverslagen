@@ -17,7 +17,7 @@ Dit gebruiken ze omdat ze dan tussen al de vestigingen één groot netwerk kunne
 Ze hebben ook een backup-lijn moest het internet wegvallen dat ze nog op andere manier hun internet toch kunnen behouden. Deze backup-lijn heeft ook zijn eigen server lokaal.
 
 #### Vastelijn telefoons:
-Deze werken allemaal via VOIP (=Voice over IP). Dit is het makkelijkste om te installeren en in gebruik te nemen omdat dit maar één kabel nodige heeft en dat is dan een internet kabel met POE (=Power Over Ethernet).
+Deze werken allemaal via VOIP (=Voice over IP). Dit is het makkelijkste om te installeren en in gebruik te nemen omdat dit maar één kabel nodige heeft en dat is dan een netwerkkabel met POE (=Power Over Ethernet).
 
 #### Op bouwwerven:
 op bouwwerven nemen ze mirco servers mee die dan een connectie leggen met de domeinserver op vestiging Antwerpen. Daardoor heeft deze volledige toegang tot het bedrijfsnetewerk waar deze toegang tot krijgen. Dit het makkelijkste mee te nemen om dat het ook maar voor 2-5 mensen is en daarvoor een volledige server mee veel te veel werk om dit volledig geinstalleerd te krijgen.
