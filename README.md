@@ -35,3 +35,12 @@ Gebruikte website:\
 
 ## Woensdag 2021-10-06
 - Mezelf nog meer verdiept in de werking van het bedrijfsnetwerk lokaal te antwerpen. Verder gewerkt aan de case studie. 
+
+## Donderdag 2021-10-07
+- analyse gedaan van hoe de SOM (Self-Oder Mamagement) in het ITSM (IT Service Management) werk.
+- analyse gedaan hoe een andere deel van scot werk.
+
+## Vrijdag 2021-10-08
+- Afwerking van case studies
+- kleine case studie verschillen tussen oude en nieuwe dockstations.
+- Afsluiting week
