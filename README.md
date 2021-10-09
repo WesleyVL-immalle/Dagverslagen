@@ -1,4 +1,4 @@
-#Dag verslagen
+# Dag verslagen
 ## Maandag 2021-10-04
 Rondleiding gekregen in het bedrijf. 
 ### serverkamer:
